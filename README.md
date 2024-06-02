@@ -1,5 +1,6 @@
 #112-2教育資料探勘專題
 ##HW1
+#最下面有作業影片連結
 
 > Lab 1 - Exploring the Power of LLM
 
@@ -47,5 +48,10 @@ print("提取到的 restaurantId:", restaurant_ids)
 print("完整的回應資料:", response_data)
 
 ```
-Video：
+
+**Video**
+lab1 :
 <https://youtu.be/lOgaXgeZ47U>
+
+lab3_data : (資料整理練習)
+<https://youtu.be/o0VwM0gX9no>
